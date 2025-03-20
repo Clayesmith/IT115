@@ -1,3 +1,1 @@
-IT115
-
-Clayton Smith
+IT115 Clayton Smith
